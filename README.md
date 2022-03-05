@@ -1,10 +1,10 @@
-#Buscador Cep
+# Buscador Cep
 
-#####Desenvolvido com React e consumindo a API da ViaCEP
+##### Desenvolvido com React e consumindo a API da ViaCEP
 
 Inicialização do projeto: `npm start`
 
-#####Página inicial
+##### Página inicial
 ![](src/assets/tela-inicial.png)
 
 #####Página de busca
